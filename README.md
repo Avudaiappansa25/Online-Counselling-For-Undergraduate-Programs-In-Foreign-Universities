@@ -13,6 +13,7 @@ The project consists of the following modules:
 3) Online counselling services
 
 Directories:
+
 Analysis of Universities:
 This directory contains information about the universities that are being analyzed. It includes the universities' history, location, facilities, and other relevant information.
 
