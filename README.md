@@ -7,10 +7,10 @@ The idea behind this project is to gather information about the universities and
 
 Modules
 The project consists of the following modules:
+1) Analysis of universities
+2) Quality of education
+3) Online counselling services
 
-Analysis of universities
-Quality of education
-Online counselling services
 Directories
 Analysis of Universities
 This directory contains information about the universities that are being analyzed. It includes the universities' history, location, facilities, and other relevant information.
